@@ -1,12 +1,10 @@
-Great — here’s a **GitHub Quant Portfolio–ready README version**, tailored to your **MSF (Finance + Quant + Programming positioning)** and aligned with **quant roles**.
-
 ---
 
-# 📈 Quantitative Analysis & Financial Engineering
+# Quantitative Analysis & Financial Engineering
 
-## 🧾 Overview
+## Overview
 
-As part of my **Master of Science in Finance (MSF)** training, this work focuses on applying **quantitative analysis, statistical modeling, and financial engineering techniques** to evaluate investment opportunities and support data-driven decision-making in financial markets.
+As part of my **Master of Science in Finance (MSF)** training, this project focuses on applying **quantitative analysis, statistical modeling, and financial engineering techniques** to evaluate investment opportunities and support data-driven decision-making in financial markets.
 
 As this works integrates **financial theory, programming, and empirical modeling** to solve real-world investment and risk management problems across asset classes.
 
@@ -99,7 +97,7 @@ As this works integrates **financial theory, programming, and empirical modeling
 
 ## Application to Quant Finance Roles
 
-This training supports roles such as:
+Supports roles such as:
 
 * Quantitative Analyst
 * Quant Developer
